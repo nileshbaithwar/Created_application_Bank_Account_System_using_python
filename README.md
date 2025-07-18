@@ -1,4 +1,3 @@
-# Bank_Account_System
 Simple Python Project for adding, updating and deleting bank data
 Python project that performs operations like adding, updating, and deleting bank data. You can adjust the file and project structure as per your actual project setup.
 
@@ -169,11 +168,4 @@ view_bank_records()
 4. Push to the branch (`git push origin feature-name`)
 5. Create a new Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Let me know if you need further modifications or a more detailed explanation of any part!
 
