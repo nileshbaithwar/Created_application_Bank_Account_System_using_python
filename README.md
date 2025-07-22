@@ -1,9 +1,4 @@
-Simple Python Project for adding, updating and deleting bank data
-Python project that performs operations like adding, updating, and deleting bank data. You can adjust the file and project structure as per your actual project setup.
-
----
-
-# Simple Bank Data Management Project
+# Developed simple Bank data application using python
 
 ## Project Overview
 
@@ -158,14 +153,3 @@ view_bank_records()
 
 # Output:
 # Name: Bob Martin, Account Number: 123456, Balance: 1800
-```
-
-## Contributing
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-name`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature-name`)
-5. Create a new Pull Request
-
-
